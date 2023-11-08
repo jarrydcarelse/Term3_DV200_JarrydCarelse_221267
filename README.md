@@ -96,13 +96,26 @@ Copy code
 npm start
 The website will be accessible at http://localhost:3000.
 <!-- FEATURES AND FUNCTIONALITY-->
-![Alt text](Point.png)
+![Alt text](login.png)
 
 <br>
 
-![Alt text](Login.png
+![Alt text](home.png
 )
 
+<br>
+
+![Alt text](latest.png
+)
+<br>
+
+![Alt text](cart.png
+)
+
+<br>
+
+![Alt text](check.png
+)
 
 
 
@@ -138,7 +151,7 @@ Designing a database schema for product information and images can be challengin
 
 To see a run through of the application, click below:
 
-[View Demonstration](https://drive.google.com/file/d/1saDZU_ALigJZmD6PE8udiMh07uW-f1Al/view?usp=sharing
+[View Demonstration](https://drive.google.com/file/d/1zpsajCg-3OjtIjLyPYsV6NHotNh35xoy/view?usp=sharing
 )
 
 <!-- AUTHORS -->
