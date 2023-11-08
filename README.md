@@ -10,7 +10,7 @@ Term 3 readme file with demonstration video
 
   
   
-  <h3 align="center">DV200 Term 2</h3>
+  <h3 align="center">DV200 Term 3</h3>
 
   <p align="center">
 Solebox is an ecommerce website designed for selling a variety of sneakers. It leverages a MongoDB database to provide product information and images to users. This platform is built using React.js, HTML, CSS, Bootstrap, and incorporates design work created with Figma. Solebox offers a wide range of sneakers for online shoppers, ensuring a seamless shopping experience.
